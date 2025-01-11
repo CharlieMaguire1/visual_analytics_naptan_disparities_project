@@ -6,9 +6,9 @@ This project examines the disparities between transport bus stops in rural and u
     1. **Overview** : Looking at the entire collection through all stages/processes
     2. **Zoom** : Looking at features of interest (relevance)
     3. **Filter** : Removing redundant features
-    4. **Details-on-demand** : Domain knowledge/Research for the features and relationships of interest
-    5. **Relate** : Viewing and visualising the relationships between features/variables
-    6. **History** : Using Jupyter Notebook to log the processes/ Noting the iterations
+    4. **Details-on-demand** : Iteractivity for the data items of interest
+    5. **Relate** : Viewing and visualising the relationships between features/variables of interest.
+    6. **History** : Using Jupyter Notebook to log the processes and save in a project sturcture for Github (https://github.com/CharlieMaguire1/visual_analytics_naptan_disparities_project)
     7. **Extract** : Choosing which visualisation and insights will be including in the final report.
 
 - The Visual Analytics Process employed:
