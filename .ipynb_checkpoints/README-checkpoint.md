@@ -1,0 +1,2 @@
+### Overview
+This project examines the disparities between transport bus stops in rural and urban areas within the UK, using the Visual Analytics Process to gain insights through iterations. The main focus of this project will be stop density, stop types and the occurences of maintenance.

@@ -24,7 +24,7 @@ This project examines the disparities between transport bus stops in rural and u
     - This research question is abstract, but can serve as a premise of the project. After the inital preprocessing steps (Overview, Zoom and Filter), it was feasible to divide this into more specific questions as a form of deduction.
 
 - 2nd Iteration Research Questions:
-    1. How is the distribution of Stop Types and Bus Stop Types differentiated between rural and urban area and how do they influence the accessibility of public transport?
+    1. How is the distribution of Stop Types and Bus Stop Types differentiated between north and south areas and how do they influence the accessibility of public transport?
     2. What can be visualised about the frequency and timing of maintenance activities, as indicated by Date/Time of modifications, revision numbers and modification across different localities?
     3. How do bus stop densities and types vary across Admin area codes and how do these variations be visualised to identify region that are not been being served as much?
     4. What disparities exist between LocalityName, LocalityCentre, and their associated characteristics when visualised interactively?
