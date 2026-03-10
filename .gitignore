@@ -6,3 +6,9 @@
 
 # Ignore model python pickle files
 *.pkl
+
+# Remove `.ipynb_checkpoints` and `cache` from Git
+```gitignore
+.ipynb_checkpoints/
+__pycache__/
+notebooks/cache/
